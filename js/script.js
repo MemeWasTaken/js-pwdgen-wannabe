@@ -9,7 +9,12 @@ let userSurname;
     userSurname = prompt('Inserisci il tuo cognome:');
     console.log(userSurname);
 // New favColor variable
+let favColor;
     //Ask for user's favourite color
-// New lastDigitsYear constant
-
+    favColor = prompt('Inserisci il tuo colore preferito');
+    console.log(favColor);
+    // New lastDigitsYear constant
+const lastDigitsYear = '21';
+console.log(lastDigitsYear);
 // Print name+surname+favcolor+lastDigitYear
+let psw = document.writeln(userName+userSurname+favColor+lastDigitsYear);
