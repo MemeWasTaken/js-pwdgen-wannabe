@@ -9,3 +9,8 @@ repository: js-pwdgen-wannabe
 TIPS:
 Copiate questa descrizione nel vostro file js come commento.
 Datevi sempre 5 minuti di tempo per capire bene cosa venga richiesto, poi passate a scomporre in italiano i problemi ed infine traducete in JS.
+
+BONUS:
+5) chiediamo all'utente anche il suo numero preferito
+6) al numero preferito sommiamo 5
+7) attacchiamo alla password, al posto del 21, il risultato
